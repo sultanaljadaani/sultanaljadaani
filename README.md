@@ -27,4 +27,4 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sultanaljadaani&theme=dark&show_icons=true&locale=en" alt="sultanaljadaani" /></p>
 
 <br>
-<p align="center"><a href="https://ko-fi.com/sultan25368"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sultan25368" /></a></p><br><br>
+<p><a align="center" href="https://ko-fi.com/sultan25368"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sultan25368" /></a></p><br><br>
