@@ -12,16 +12,7 @@
 
 - 📫 How to reach me **sultanaljadaani@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://twitter.com/___7rb" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___7rb"        height="30" width="40" />
- </a>
- <a href="https://sa.linkedin.com/in/eng-sultan-aljadani-b89198147?trk=people-guest_people_search-card" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-       sultan-aljadani" height="30" width="40" />
- </a>
-<a href="https://instagram.com/2sa4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2sa4" height="30" width="40" /></a>
-</p>
+
 <h4>🔭  I’m working with ...  </h4>
 
 <h5>UI Developer</h5>
@@ -56,5 +47,16 @@
 
 <br>
 <p><a align="center" href="https://ko-fi.com/sultan25368"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sultan25368" /></a></p><br><br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://twitter.com/___7rb" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___7rb"        height="30" width="40" />
+ </a>
+ <a href="https://sa.linkedin.com/in/eng-sultan-aljadani-b89198147?trk=people-guest_people_search-card" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-       sultan-aljadani" height="30" width="40" />
+ </a>
+<a href="https://instagram.com/2sa4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2sa4" height="30" width="40" /></a>
+</p>
 
 <div align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sultanaljadaani&theme=dark&show_icons=true&locale=en" alt="sultanaljadaani" /></div>
