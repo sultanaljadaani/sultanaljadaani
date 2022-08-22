@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/___7rb" target="blank"><img src="https://img.shields.io/twitter/follow/___7rb?logo=twitter&style=for-the-badge" alt="___7rb" /></a> </p>
  
-- 🌱 I’m currently learning *Laravel*
+- 🌱 I’m currently learning <p color="red" background-color="#FFFFFF"> *Laravel* </p>
 
 - 💬 Ask me about **react and Angular**
 
