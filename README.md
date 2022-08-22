@@ -1,4 +1,4 @@
-[![Social banner for sultanaljadaani](https://github.com/jh3y/jh3y/raw/master/assets/banner-github.svg)]
+[![Social banner for sultanaljadaani]([https://github.com/jh3y/jh3y/raw/master/assets/banner-github.svg](https://github.com/sultanaljadaani/sultanaljadaani/blob/main/assets/banner-github.svg))]
 <h1 align="center">Hi 👋, I'm Sultan Aljadani</h1>
 <h3 align="center">A frontend developer from Saudi Arabia</h3>
 
