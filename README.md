@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/___7rb" target="blank"><img src="https://img.shields.io/twitter/follow/___7rb?logo=twitter&style=for-the-badge" alt="___7rb" /></a> </p>
  
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/laravel%20-F05340.svg?&style=for-the-badge&logo=laravel&logoColor=white" /> &nbsp;&nbsp;&nbsp;
 
 - 💬 Ask me about **react and Angular**
 
@@ -42,16 +42,13 @@
  &nbsp;&nbsp;
 </p>
 
-<h4>🌱  I'm currently learning...</h4>
+<h4>🌱  I'm interested into  ...</h4>
 <p >
  <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
  &nbsp;&nbsp;&nbsp;
  
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  &nbsp;&nbsp;&nbsp;
- 
- <img src="https://img.shields.io/badge/laravel%20-F05340.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
- &nbsp;&nbsp;&nbsp; 
  
 </p>
 
