@@ -47,7 +47,7 @@
 <p>
  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=49053A" />
  &nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Figma-FF61F6?style=for-the-badge&logo=Figma&logoColor=FFFFFF" />
+ <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=Figma&logoColor=FFFFFF" />
  &nbsp;&nbsp;
 </p>
 
