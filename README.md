@@ -40,7 +40,13 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />
   &nbsp;&nbsp;
+ 
+</p>
+
+<h5>UI Developer</h5>
+<p>
  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=49053A" />
+ &nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
